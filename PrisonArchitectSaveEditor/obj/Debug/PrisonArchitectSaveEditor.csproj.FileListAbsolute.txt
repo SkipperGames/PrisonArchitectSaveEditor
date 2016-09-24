@@ -1,0 +1,9 @@
+c:\users\loc\documents\visual studio 2015\Projects\PrisonArchitectSaveEditor\PrisonArchitectSaveEditor\bin\Debug\PrisonArchitectSaveEditor.exe.config
+c:\users\loc\documents\visual studio 2015\Projects\PrisonArchitectSaveEditor\PrisonArchitectSaveEditor\bin\Debug\PrisonArchitectSaveEditor.exe
+c:\users\loc\documents\visual studio 2015\Projects\PrisonArchitectSaveEditor\PrisonArchitectSaveEditor\bin\Debug\PrisonArchitectSaveEditor.pdb
+c:\users\loc\documents\visual studio 2015\Projects\PrisonArchitectSaveEditor\PrisonArchitectSaveEditor\obj\Debug\PrisonArchitectSaveEditor.csprojResolveAssemblyReference.cache
+c:\users\loc\documents\visual studio 2015\Projects\PrisonArchitectSaveEditor\PrisonArchitectSaveEditor\obj\Debug\PrisonArchitectSaveEditor.Form1.resources
+c:\users\loc\documents\visual studio 2015\Projects\PrisonArchitectSaveEditor\PrisonArchitectSaveEditor\obj\Debug\PrisonArchitectSaveEditor.Properties.Resources.resources
+c:\users\loc\documents\visual studio 2015\Projects\PrisonArchitectSaveEditor\PrisonArchitectSaveEditor\obj\Debug\PrisonArchitectSaveEditor.csproj.GenerateResource.Cache
+c:\users\loc\documents\visual studio 2015\Projects\PrisonArchitectSaveEditor\PrisonArchitectSaveEditor\obj\Debug\PrisonArchitectSaveEditor.exe
+c:\users\loc\documents\visual studio 2015\Projects\PrisonArchitectSaveEditor\PrisonArchitectSaveEditor\obj\Debug\PrisonArchitectSaveEditor.pdb
